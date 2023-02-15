@@ -1,0 +1,28 @@
+C:\Users\orbithealth\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\orbithealth\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\orbithealth\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\orbithealth\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\orbithealth\Desktop\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.cache
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\orbithealth\Desktop\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.config
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe.manifest
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\bin\Debug\SerialPort Terminal.application
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\bin\Debug\SerialPort Terminal.exe
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\bin\Debug\SerialPort Terminal.pdb
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.AssemblyReference.cache
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPortTerminal.frmTerminal.resources
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPortTerminal.Properties.Resources.resources
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.GenerateResource.cache
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPortTerminal.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe.manifest
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPort Terminal.application
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPort Terminal.exe
+C:\Users\orbithealth\Desktop\IMP_ON_EXIT\SerialPortTerminal\obj\Debug\SerialPort Terminal.pdb
